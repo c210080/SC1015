@@ -1,0 +1,881 @@
+S/N,Location,Building Class,Floor Area (Sqm),Median Rent (Sqm),Reference Period
+1,Central Area,Category 1,100 & Below,107.08,Q1 2012
+2,Central Area,Category 1,>100 - 200,96.88,Q1 2012
+3,Central Area,Category 1,>1000,110.33,Q1 2012
+4,Central Area,Category 1,>200 - 500,97.6,Q1 2012
+5,Central Area,Category 1,>500 - 1000,97.95,Q1 2012
+6,Central Area,Category 2,100 & Below,57.95,Q1 2012
+7,Central Area,Category 2,>100 - 200,59.46,Q1 2012
+8,Central Area,Category 2,>1000,37.36,Q1 2012
+9,Central Area,Category 2,>200 - 500,61.67,Q1 2012
+10,Central Area,Category 2,>500 - 1000,51.45,Q1 2012
+11,Central Area,Category 1,100 & Below,97.17,Q2 2012
+12,Central Area,Category 1,>100 - 200,96.87,Q2 2012
+13,Central Area,Category 1,>1000,97.41,Q2 2012
+14,Central Area,Category 1,>200 - 500,96.88,Q2 2012
+15,Central Area,Category 1,>500 - 1000,97.09,Q2 2012
+16,Central Area,Category 2,100 & Below,58.13,Q2 2012
+17,Central Area,Category 2,>100 - 200,64.71,Q2 2012
+18,Central Area,Category 2,>1000,68.12,Q2 2012
+19,Central Area,Category 2,>200 - 500,64.75,Q2 2012
+20,Central Area,Category 2,>500 - 1000,71.41,Q2 2012
+21,Central Area,Category 1,100 & Below,98.28,Q3 2012
+22,Central Area,Category 1,>100 - 200,103.33,Q3 2012
+23,Central Area,Category 1,>1000,93.6,Q3 2012
+24,Central Area,Category 1,>200 - 500,96.87,Q3 2012
+25,Central Area,Category 1,>500 - 1000,96.79,Q3 2012
+26,Central Area,Category 2,100 & Below,62.39,Q3 2012
+27,Central Area,Category 2,>100 - 200,64.59,Q3 2012
+28,Central Area,Category 2,>1000,75.99,Q3 2012
+29,Central Area,Category 2,>200 - 500,61.36,Q3 2012
+30,Central Area,Category 2,>500 - 1000,64.74,Q3 2012
+31,Central Area,Category 1,100 & Below,99.59,Q4 2012
+32,Central Area,Category 1,>100 - 200,97.95,Q4 2012
+33,Central Area,Category 1,>1000,90.96,Q4 2012
+34,Central Area,Category 1,>200 - 500,96.15,Q4 2012
+35,Central Area,Category 1,>500 - 1000,93.63,Q4 2012
+36,Central Area,Category 2,100 & Below,62.42,Q4 2012
+37,Central Area,Category 2,>100 - 200,61.97,Q4 2012
+38,Central Area,Category 2,>1000,51.34,Q4 2012
+39,Central Area,Category 2,>200 - 500,64.6,Q4 2012
+40,Central Area,Category 2,>500 - 1000,68.84,Q4 2012
+41,Central Area,Category 1,100 & Below,106.61,Q1 2013
+42,Central Area,Category 1,>100 - 200,96.35,Q1 2013
+43,Central Area,Category 1,>1000,86.42,Q1 2013
+44,Central Area,Category 1,>200 - 500,98.22,Q1 2013
+45,Central Area,Category 1,>500 - 1000,91.94,Q1 2013
+46,Central Area,Category 2,100 & Below,60.47,Q1 2013
+47,Central Area,Category 2,>100 - 200,64.61,Q1 2013
+48,Central Area,Category 2,>1000,68.37,Q1 2013
+49,Central Area,Category 2,>200 - 500,69.49,Q1 2013
+50,Central Area,Category 2,>500 - 1000,67.97,Q1 2013
+51,Central Area,Category 1,100 & Below,99,Q2 2013
+52,Central Area,Category 1,>100 - 200,100.11,Q2 2013
+53,Central Area,Category 1,>1000,89.06,Q2 2013
+54,Central Area,Category 1,>200 - 500,93.64,Q2 2013
+55,Central Area,Category 1,>500 - 1000,91.5,Q2 2013
+56,Central Area,Category 2,100 & Below,65.44,Q2 2013
+57,Central Area,Category 2,>100 - 200,62.45,Q2 2013
+58,Central Area,Category 2,>1000,67.83,Q2 2013
+59,Central Area,Category 2,>200 - 500,67.37,Q2 2013
+60,Central Area,Category 2,>500 - 1000,69.97,Q2 2013
+61,Central Area,Category 1,100 & Below,100.63,Q3 2013
+62,Central Area,Category 1,>100 - 200,96.88,Q3 2013
+63,Central Area,Category 1,>1000,96.25,Q3 2013
+64,Central Area,Category 1,>200 - 500,94.74,Q3 2013
+65,Central Area,Category 1,>500 - 1000,92.45,Q3 2013
+66,Central Area,Category 2,100 & Below,64.31,Q3 2013
+67,Central Area,Category 2,>100 - 200,67.87,Q3 2013
+68,Central Area,Category 2,>1000,80.73,Q3 2013
+69,Central Area,Category 2,>200 - 500,66.16,Q3 2013
+70,Central Area,Category 2,>500 - 1000,71.72,Q3 2013
+71,Central Area,Category 1,100 & Below,103.94,Q4 2013
+72,Central Area,Category 1,>100 - 200,96.89,Q4 2013
+73,Central Area,Category 1,>1000,92.57,Q4 2013
+74,Central Area,Category 1,>200 - 500,94.98,Q4 2013
+75,Central Area,Category 1,>500 - 1000,92.57,Q4 2013
+76,Central Area,Category 2,100 & Below,62.3,Q4 2013
+77,Central Area,Category 2,>100 - 200,68.38,Q4 2013
+78,Central Area,Category 2,>1000,71.42,Q4 2013
+79,Central Area,Category 2,>200 - 500,70.28,Q4 2013
+80,Central Area,Category 2,>500 - 1000,63.51,Q4 2013
+81,Central Area,Category 1,100 & Below,102.25,Q1 2014
+82,Central Area,Category 1,>100 - 200,100.1,Q1 2014
+83,Central Area,Category 1,>1000,100.07,Q1 2014
+84,Central Area,Category 1,>200 - 500,104.95,Q1 2014
+85,Central Area,Category 1,>500 - 1000,107.64,Q1 2014
+86,Central Area,Category 2,100 & Below,62.42,Q1 2014
+87,Central Area,Category 2,>100 - 200,71.05,Q1 2014
+88,Central Area,Category 2,>1000,66.33,Q1 2014
+89,Central Area,Category 2,>200 - 500,68.49,Q1 2014
+90,Central Area,Category 2,>500 - 1000,67.55,Q1 2014
+91,Central Area,Category 1,100 & Below,107.64,Q2 2014
+92,Central Area,Category 1,>100 - 200,101.98,Q2 2014
+93,Central Area,Category 1,>1000,93.67,Q2 2014
+94,Central Area,Category 1,>200 - 500,102.25,Q2 2014
+95,Central Area,Category 1,>500 - 1000,101.62,Q2 2014
+96,Central Area,Category 2,100 & Below,63.55,Q2 2014
+97,Central Area,Category 2,>100 - 200,69.93,Q2 2014
+98,Central Area,Category 2,>1000,69.96,Q2 2014
+99,Central Area,Category 2,>200 - 500,72.92,Q2 2014
+100,Central Area,Category 2,>500 - 1000,70.2,Q2 2014
+101,Central Area,Category 1,100 & Below,102.31,Q3 2014
+102,Central Area,Category 1,>100 - 200,105.04,Q3 2014
+103,Central Area,Category 1,>1000,91.49,Q3 2014
+104,Central Area,Category 1,>200 - 500,108.35,Q3 2014
+105,Central Area,Category 1,>500 - 1000,98.94,Q3 2014
+106,Central Area,Category 2,100 & Below,62.1,Q3 2014
+107,Central Area,Category 2,>100 - 200,69.96,Q3 2014
+108,Central Area,Category 2,>1000,53.23,Q3 2014
+109,Central Area,Category 2,>200 - 500,70.1,Q3 2014
+110,Central Area,Category 2,>500 - 1000,75.93,Q3 2014
+111,Central Area,Category 1,100 & Below,102.59,Q4 2014
+112,Central Area,Category 1,>100 - 200,107.64,Q4 2014
+113,Central Area,Category 1,>1000,107.64,Q4 2014
+114,Central Area,Category 1,>200 - 500,110.32,Q4 2014
+115,Central Area,Category 1,>500 - 1000,98.12,Q4 2014
+116,Central Area,Category 2,100 & Below,62.97,Q4 2014
+117,Central Area,Category 2,>100 - 200,66.89,Q4 2014
+118,Central Area,Category 2,>1000,67.81,Q4 2014
+119,Central Area,Category 2,>200 - 500,69.69,Q4 2014
+120,Central Area,Category 2,>500 - 1000,75.34,Q4 2014
+121,Central Area,Category 1,100 & Below,107.64,Q1 2015
+122,Central Area,Category 1,>100 - 200,109.26,Q1 2015
+123,Central Area,Category 1,>1000,99.84,Q1 2015
+124,Central Area,Category 1,>200 - 500,116.25,Q1 2015
+125,Central Area,Category 1,>500 - 1000,111.96,Q1 2015
+126,Central Area,Category 2,100 & Below,65.42,Q1 2015
+127,Central Area,Category 2,>100 - 200,70.5,Q1 2015
+128,Central Area,Category 2,>1000,60.49,Q1 2015
+129,Central Area,Category 2,>200 - 500,73.73,Q1 2015
+130,Central Area,Category 2,>500 - 1000,81.98,Q1 2015
+131,Central Area,Category 1,100 & Below,113.04,Q2 2015
+132,Central Area,Category 1,>100 - 200,107.64,Q2 2015
+133,Central Area,Category 1,>1000,96.88,Q2 2015
+134,Central Area,Category 1,>200 - 500,102.25,Q2 2015
+135,Central Area,Category 1,>500 - 1000,117.33,Q2 2015
+136,Central Area,Category 2,100 & Below,61.84,Q2 2015
+137,Central Area,Category 2,>100 - 200,69.98,Q2 2015
+138,Central Area,Category 2,>1000,57.78,Q2 2015
+139,Central Area,Category 2,>200 - 500,64.66,Q2 2015
+140,Central Area,Category 2,>500 - 1000,70.97,Q2 2015
+141,Central Area,Category 1,100 & Below,102.22,Q3 2015
+142,Central Area,Category 1,>100 - 200,118.41,Q3 2015
+143,Central Area,Category 1,>1000,100.11,Q3 2015
+144,Central Area,Category 1,>200 - 500,113.55,Q3 2015
+145,Central Area,Category 1,>500 - 1000,108.45,Q3 2015
+146,Central Area,Category 2,100 & Below,60.84,Q3 2015
+147,Central Area,Category 2,>100 - 200,64.24,Q3 2015
+148,Central Area,Category 2,>1000,66.37,Q3 2015
+149,Central Area,Category 2,>200 - 500,66.19,Q3 2015
+150,Central Area,Category 2,>500 - 1000,75.78,Q3 2015
+151,Central Area,Category 1,100 & Below,109.28,Q4 2015
+152,Central Area,Category 1,>100 - 200,102.87,Q4 2015
+153,Central Area,Category 1,>1000,109.79,Q4 2015
+154,Central Area,Category 1,>200 - 500,116.25,Q4 2015
+155,Central Area,Category 1,>500 - 1000,112.05,Q4 2015
+156,Central Area,Category 2,100 & Below,59.31,Q4 2015
+157,Central Area,Category 2,>100 - 200,62.45,Q4 2015
+158,Central Area,Category 2,>1000,67.25,Q4 2015
+159,Central Area,Category 2,>200 - 500,66.74,Q4 2015
+160,Central Area,Category 2,>500 - 1000,64.58,Q4 2015
+161,Central Area,Category 1,100 & Below,101.69,Q1 2016
+162,Central Area,Category 1,>100 - 200,102.28,Q1 2016
+163,Central Area,Category 1,>1000,98.19,Q1 2016
+164,Central Area,Category 1,>200 - 500,99.11,Q1 2016
+165,Central Area,Category 1,>500 - 1000,99.56,Q1 2016
+166,Central Area,Category 2,100 & Below,58.98,Q1 2016
+167,Central Area,Category 2,>100 - 200,61.54,Q1 2016
+168,Central Area,Category 2,>1000,64.91,Q1 2016
+169,Central Area,Category 2,>200 - 500,69.96,Q1 2016
+170,Central Area,Category 2,>500 - 1000,67.55,Q1 2016
+171,Central Area,Category 1,100 & Below,106.57,Q2 2016
+172,Central Area,Category 1,>100 - 200,105.48,Q2 2016
+173,Central Area,Category 1,>1000,99.56,Q2 2016
+174,Central Area,Category 1,>200 - 500,107.75,Q2 2016
+175,Central Area,Category 1,>500 - 1000,94.72,Q2 2016
+176,Central Area,Category 2,100 & Below,58.57,Q2 2016
+177,Central Area,Category 2,>100 - 200,62.41,Q2 2016
+178,Central Area,Category 2,>1000,70.66,Q2 2016
+179,Central Area,Category 2,>200 - 500,61.35,Q2 2016
+180,Central Area,Category 2,>500 - 1000,62.43,Q2 2016
+181,Central Area,Category 1,100 & Below,94.16,Q3 2016
+182,Central Area,Category 1,>100 - 200,102.24,Q3 2016
+183,Central Area,Category 1,>1000,92.57,Q3 2016
+184,Central Area,Category 1,>200 - 500,108.65,Q3 2016
+185,Central Area,Category 1,>500 - 1000,99.03,Q3 2016
+186,Central Area,Category 2,100 & Below,59.2,Q3 2016
+187,Central Area,Category 2,>100 - 200,63.1,Q3 2016
+188,Central Area,Category 2,>1000,91.5,Q3 2016
+189,Central Area,Category 2,>200 - 500,61.89,Q3 2016
+190,Central Area,Category 2,>500 - 1000,70.05,Q3 2016
+191,Central Area,Category 1,100 & Below,89.93,Q4 2016
+192,Central Area,Category 1,>100 - 200,83.8,Q4 2016
+193,Central Area,Category 1,>1000,90.17,Q4 2016
+194,Central Area,Category 1,>200 - 500,104.96,Q4 2016
+195,Central Area,Category 1,>500 - 1000,99.57,Q4 2016
+196,Central Area,Category 2,100 & Below,59.16,Q4 2016
+197,Central Area,Category 2,>100 - 200,57.82,Q4 2016
+198,Central Area,Category 2,>1000,58.49,Q4 2016
+199,Central Area,Category 2,>200 - 500,61.35,Q4 2016
+200,Central Area,Category 2,>500 - 1000,61.54,Q4 2016
+201,Central Area,Category 1,100 & Below,96.86,Q1 2017
+202,Central Area,Category 1,>100 - 200,95.8,Q1 2017
+203,Central Area,Category 1,>1000,91.49,Q1 2017
+204,Central Area,Category 1,>200 - 500,96.88,Q1 2017
+205,Central Area,Category 1,>500 - 1000,96.88,Q1 2017
+206,Central Area,Category 2,100 & Below,58.95,Q1 2017
+207,Central Area,Category 2,>100 - 200,64.59,Q1 2017
+208,Central Area,Category 2,>1000,69.07,Q1 2017
+209,Central Area,Category 2,>200 - 500,63.45,Q1 2017
+210,Central Area,Category 2,>500 - 1000,66,Q1 2017
+211,Central Area,Category 1,100 & Below,99.02,Q2 2017
+212,Central Area,Category 1,>100 - 200,96.87,Q2 2017
+213,Central Area,Category 1,>1000,92.36,Q2 2017
+214,Central Area,Category 1,>200 - 500,96.16,Q2 2017
+215,Central Area,Category 1,>500 - 1000,96.33,Q2 2017
+216,Central Area,Category 2,100 & Below,56.9,Q2 2017
+217,Central Area,Category 2,>100 - 200,64.58,Q2 2017
+218,Central Area,Category 2,>1000,68.35,Q2 2017
+219,Central Area,Category 2,>200 - 500,67.81,Q2 2017
+220,Central Area,Category 2,>500 - 1000,64.58,Q2 2017
+221,Central Area,Category 1,100 & Below,96.87,Q3 2017
+222,Central Area,Category 1,>100 - 200,96.84,Q3 2017
+223,Central Area,Category 1,>1000,93.65,Q3 2017
+224,Central Area,Category 1,>200 - 500,93.44,Q3 2017
+225,Central Area,Category 1,>500 - 1000,95.8,Q3 2017
+226,Central Area,Category 2,100 & Below,59.24,Q3 2017
+227,Central Area,Category 2,>100 - 200,64.57,Q3 2017
+228,Central Area,Category 2,>1000,67.66,Q3 2017
+229,Central Area,Category 2,>200 - 500,63.76,Q3 2017
+230,Central Area,Category 2,>500 - 1000,63.44,Q3 2017
+231,Central Area,Category 1,100 & Below,102.26,Q4 2017
+232,Central Area,Category 1,>100 - 200,99.02,Q4 2017
+233,Central Area,Category 1,>1000,97.65,Q4 2017
+234,Central Area,Category 1,>200 - 500,96.87,Q4 2017
+235,Central Area,Category 1,>500 - 1000,96.88,Q4 2017
+236,Central Area,Category 2,100 & Below,56.94,Q4 2017
+237,Central Area,Category 2,>100 - 200,63.64,Q4 2017
+238,Central Area,Category 2,>1000,66.48,Q4 2017
+239,Central Area,Category 2,>200 - 500,67.5,Q4 2017
+240,Central Area,Category 2,>500 - 1000,67.29,Q4 2017
+241,Central Area,Category 1,100 & Below,100.45,Q1 2018
+242,Central Area,Category 1,>100 - 200,96.88,Q1 2018
+243,Central Area,Category 1,>1000,96.87,Q1 2018
+244,Central Area,Category 1,>200 - 500,102.25,Q1 2018
+245,Central Area,Category 1,>500 - 1000,91.49,Q1 2018
+246,Central Area,Category 2,100 & Below,58.06,Q1 2018
+247,Central Area,Category 2,>100 - 200,66.7,Q1 2018
+248,Central Area,Category 2,>1000,81.23,Q1 2018
+249,Central Area,Category 2,>200 - 500,68.93,Q1 2018
+250,Central Area,Category 2,>500 - 1000,71.58,Q1 2018
+251,Central Area,Category 1,100 & Below,99.76,Q2 2018
+252,Central Area,Category 1,>100 - 200,105.3,Q2 2018
+253,Central Area,Category 1,>1000,99.04,Q2 2018
+254,Central Area,Category 1,>200 - 500,102.24,Q2 2018
+255,Central Area,Category 1,>500 - 1000,110.87,Q2 2018
+256,Central Area,Category 2,100 & Below,58.67,Q2 2018
+257,Central Area,Category 2,>100 - 200,65.98,Q2 2018
+258,Central Area,Category 2,>1000,77.05,Q2 2018
+259,Central Area,Category 2,>200 - 500,70.51,Q2 2018
+260,Central Area,Category 2,>500 - 1000,67.75,Q2 2018
+261,Central Area,Category 1,100 & Below,102.26,Q3 2018
+262,Central Area,Category 1,>100 - 200,99.02,Q3 2018
+263,Central Area,Category 1,>1000,108.78,Q3 2018
+264,Central Area,Category 1,>200 - 500,107.45,Q3 2018
+265,Central Area,Category 1,>500 - 1000,98.78,Q3 2018
+266,Central Area,Category 2,100 & Below,59.34,Q3 2018
+267,Central Area,Category 2,>100 - 200,69.67,Q3 2018
+268,Central Area,Category 2,>1000,74.98,Q3 2018
+269,Central Area,Category 2,>200 - 500,68.88,Q3 2018
+270,Central Area,Category 2,>500 - 1000,68.35,Q3 2018
+271,Central Area,Category 1,100 & Below,104.98,Q4 2018
+272,Central Area,Category 1,>100 - 200,99.04,Q4 2018
+273,Central Area,Category 1,>1000,103.62,Q4 2018
+274,Central Area,Category 1,>200 - 500,102.79,Q4 2018
+275,Central Area,Category 1,>500 - 1000,105.28,Q4 2018
+276,Central Area,Category 2,100 & Below,58.16,Q4 2018
+277,Central Area,Category 2,>100 - 200,67.8,Q4 2018
+278,Central Area,Category 2,>1000,72.72,Q4 2018
+279,Central Area,Category 2,>200 - 500,70.93,Q4 2018
+280,Central Area,Category 2,>500 - 1000,75.34,Q4 2018
+281,Central Area,Category 1,100 & Below,101.18,Q1 2019
+282,Central Area,Category 1,>100 - 200,102.25,Q1 2019
+283,Central Area,Category 1,>1000,124.32,Q1 2019
+284,Central Area,Category 1,>200 - 500,107.64,Q1 2019
+285,Central Area,Category 1,>500 - 1000,113.03,Q1 2019
+286,Central Area,Category 2,100 & Below,56.94,Q1 2019
+287,Central Area,Category 2,>100 - 200,62,Q1 2019
+288,Central Area,Category 2,>1000,81.81,Q1 2019
+289,Central Area,Category 2,>200 - 500,72.66,Q1 2019
+290,Central Area,Category 2,>500 - 1000,75.35,Q1 2019
+291,Central Area,Category 1,100 & Below,102.25,Q2 2019
+292,Central Area,Category 1,>100 - 200,106.34,Q2 2019
+293,Central Area,Category 1,>1000,98.06,Q2 2019
+294,Central Area,Category 1,>200 - 500,107.64,Q2 2019
+295,Central Area,Category 1,>500 - 1000,99.6,Q2 2019
+296,Central Area,Category 2,100 & Below,58.13,Q2 2019
+297,Central Area,Category 2,>100 - 200,65.19,Q2 2019
+298,Central Area,Category 2,>1000,80.73,Q2 2019
+299,Central Area,Category 2,>200 - 500,69.96,Q2 2019
+300,Central Area,Category 2,>500 - 1000,83.16,Q2 2019
+301,Central Area,Category 1,100 & Below,99.6,Q3 2019
+302,Central Area,Category 1,>100 - 200,109.69,Q3 2019
+303,Central Area,Category 1,>1000,106.31,Q3 2019
+304,Central Area,Category 1,>200 - 500,107.64,Q3 2019
+305,Central Area,Category 1,>500 - 1000,109.26,Q3 2019
+306,Central Area,Category 2,100 & Below,57.69,Q3 2019
+307,Central Area,Category 2,>100 - 200,69.95,Q3 2019
+308,Central Area,Category 2,>1000,72.95,Q3 2019
+309,Central Area,Category 2,>200 - 500,66.27,Q3 2019
+310,Central Area,Category 2,>500 - 1000,68.29,Q3 2019
+311,Central Area,Category 1,100 & Below,107.66,Q4 2019
+312,Central Area,Category 1,>100 - 200,108.7,Q4 2019
+313,Central Area,Category 1,>1000,117.33,Q4 2019
+314,Central Area,Category 1,>200 - 500,109.79,Q4 2019
+315,Central Area,Category 1,>500 - 1000,103.87,Q4 2019
+316,Central Area,Category 2,100 & Below,60.32,Q4 2019
+317,Central Area,Category 2,>100 - 200,67.81,Q4 2019
+318,Central Area,Category 2,>1000,74.32,Q4 2019
+319,Central Area,Category 2,>200 - 500,68.08,Q4 2019
+320,Central Area,Category 2,>500 - 1000,78.56,Q4 2019
+321,Central Area,Category 1,100 & Below,107.64,Q1 2020
+322,Central Area,Category 1,>100 - 200,106.02,Q1 2020
+323,Central Area,Category 1,>1000,90.7,Q1 2020
+324,Central Area,Category 1,>200 - 500,107.64,Q1 2020
+325,Central Area,Category 1,>500 - 1000,108.18,Q1 2020
+326,Central Area,Category 2,100 & Below,58.24,Q1 2020
+327,Central Area,Category 2,>100 - 200,64.84,Q1 2020
+328,Central Area,Category 2,>1000,57.78,Q1 2020
+329,Central Area,Category 2,>200 - 500,73.02,Q1 2020
+330,Central Area,Category 2,>500 - 1000,75.79,Q1 2020
+331,Central Area,Category 1,100 & Below,99.02,Q2 2020
+332,Central Area,Category 1,>100 - 200,104.92,Q2 2020
+333,Central Area,Category 1,>1000,113.02,Q2 2020
+334,Central Area,Category 1,>200 - 500,115.72,Q2 2020
+335,Central Area,Category 1,>500 - 1000,102.25,Q2 2020
+336,Central Area,Category 2,100 & Below,53.42,Q2 2020
+337,Central Area,Category 2,>100 - 200,69.97,Q2 2020
+338,Central Area,Category 2,>1000,30.88,Q2 2020
+339,Central Area,Category 2,>200 - 500,75.17,Q2 2020
+340,Central Area,Category 2,>500 - 1000,75.45,Q2 2020
+341,Central Area,Category 1,100 & Below,90.42,Q3 2020
+342,Central Area,Category 1,>100 - 200,99.05,Q3 2020
+343,Central Area,Category 1,>1000,106.56,Q3 2020
+344,Central Area,Category 1,>200 - 500,109.25,Q3 2020
+345,Central Area,Category 1,>500 - 1000,110.81,Q3 2020
+346,Central Area,Category 2,100 & Below,53.54,Q3 2020
+347,Central Area,Category 2,>100 - 200,66.57,Q3 2020
+348,Central Area,Category 2,>1000,65.99,Q3 2020
+349,Central Area,Category 2,>200 - 500,65.67,Q3 2020
+350,Central Area,Category 2,>500 - 1000,67.9,Q3 2020
+351,Central Area,Category 1,100 & Below,91.63,Q4 2020
+352,Central Area,Category 1,>100 - 200,102.81,Q4 2020
+353,Central Area,Category 1,>1000,109.8,Q4 2020
+354,Central Area,Category 1,>200 - 500,102.27,Q4 2020
+355,Central Area,Category 1,>500 - 1000,94.72,Q4 2020
+356,Central Area,Category 2,100 & Below,53.78,Q4 2020
+357,Central Area,Category 2,>100 - 200,62.42,Q4 2020
+358,Central Area,Category 2,>1000,76.39,Q4 2020
+359,Central Area,Category 2,>200 - 500,60.52,Q4 2020
+360,Central Area,Category 2,>500 - 1000,71.86,Q4 2020
+361,Central Area,Category 1,100 & Below,99.41,Q1 2021
+362,Central Area,Category 1,>100 - 200,100.65,Q1 2021
+363,Central Area,Category 1,>1000,102.26,Q1 2021
+364,Central Area,Category 1,>200 - 500,96.88,Q1 2021
+365,Central Area,Category 1,>500 - 1000,105.49,Q1 2021
+366,Central Area,Category 2,100 & Below,53.68,Q1 2021
+367,Central Area,Category 2,>100 - 200,62.32,Q1 2021
+368,Central Area,Category 2,>1000,59.21,Q1 2021
+369,Central Area,Category 2,>200 - 500,64.58,Q1 2021
+370,Central Area,Category 2,>500 - 1000,71.23,Q1 2021
+371,Central Area,Category 1,100 & Below,102.27,Q2 2021
+372,Central Area,Category 1,>100 - 200,101.71,Q2 2021
+373,Central Area,Category 1,>1000,109.36,Q2 2021
+374,Central Area,Category 1,>200 - 500,101.18,Q2 2021
+375,Central Area,Category 1,>500 - 1000,113.8,Q2 2021
+376,Central Area,Category 2,100 & Below,53.49,Q2 2021
+377,Central Area,Category 2,>100 - 200,65.67,Q2 2021
+378,Central Area,Category 2,>1000,58.16,Q2 2021
+379,Central Area,Category 2,>200 - 500,68.53,Q2 2021
+380,Central Area,Category 2,>500 - 1000,72.51,Q2 2021
+381,Central Area,Category 1,100 & Below,102.22,Q3 2021
+382,Central Area,Category 1,>100 - 200,107.64,Q3 2021
+383,Central Area,Category 1,>1000,111.95,Q3 2021
+384,Central Area,Category 1,>200 - 500,101.72,Q3 2021
+385,Central Area,Category 1,>500 - 1000,109.79,Q3 2021
+386,Central Area,Category 2,100 & Below,53.6,Q3 2021
+387,Central Area,Category 2,>100 - 200,62.22,Q3 2021
+388,Central Area,Category 2,>1000,64.58,Q3 2021
+389,Central Area,Category 2,>200 - 500,69.97,Q3 2021
+390,Central Area,Category 2,>500 - 1000,72.73,Q3 2021
+391,Central Area,Category 1,100 & Below,99.04,Q4 2021
+392,Central Area,Category 1,>100 - 200,96.93,Q4 2021
+393,Central Area,Category 1,>1000,113.02,Q4 2021
+394,Central Area,Category 1,>200 - 500,110.34,Q4 2021
+395,Central Area,Category 1,>500 - 1000,107.64,Q4 2021
+396,Central Area,Category 2,100 & Below,51.86,Q4 2021
+397,Central Area,Category 2,>100 - 200,64.58,Q4 2021
+398,Central Area,Category 2,>1000,69.96,Q4 2021
+399,Central Area,Category 2,>200 - 500,69.96,Q4 2021
+400,Central Area,Category 2,>500 - 1000,72.89,Q4 2021
+401,Central Area,Category 1,100 & Below,101.18,Q1 2022
+402,Central Area,Category 1,>100 - 200,105.48,Q1 2022
+403,Central Area,Category 1,>1000,110.61,Q1 2022
+404,Central Area,Category 1,>200 - 500,107.64,Q1 2022
+405,Central Area,Category 1,>500 - 1000,115.2,Q1 2022
+406,Central Area,Category 2,100 & Below,55,Q1 2022
+407,Central Area,Category 2,>100 - 200,64.59,Q1 2022
+408,Central Area,Category 2,>1000,50.96,Q1 2022
+409,Central Area,Category 2,>200 - 500,74.28,Q1 2022
+410,Central Area,Category 2,>500 - 1000,69.97,Q1 2022
+411,Central Area,Category 1,100 & Below,NA,Q2 2022
+412,Central Area,Category 1,>100 - 200,NA,Q2 2022
+413,Central Area,Category 1,>1000,NA,Q2 2022
+414,Central Area,Category 1,>200 - 500,NA,Q2 2022
+415,Central Area,Category 1,>500 - 1000,NA,Q2 2022
+416,Central Area,Category 2,100 & Below,NA,Q2 2022
+417,Central Area,Category 2,>100 - 200,NA,Q2 2022
+418,Central Area,Category 2,>1000,NA,Q2 2022
+419,Central Area,Category 2,>200 - 500,NA,Q2 2022
+420,Central Area,Category 2,>500 - 1000,NA,Q2 2022
+421,Central Area,Category 1,100 & Below,NA,Q3 2022
+422,Central Area,Category 1,>100 - 200,NA,Q3 2022
+423,Central Area,Category 1,>1000,NA,Q3 2022
+424,Central Area,Category 1,>200 - 500,NA,Q3 2022
+425,Central Area,Category 1,>500 - 1000,NA,Q3 2022
+426,Central Area,Category 2,100 & Below,NA,Q3 2022
+427,Central Area,Category 2,>100 - 200,NA,Q3 2022
+428,Central Area,Category 2,>1000,NA,Q3 2022
+429,Central Area,Category 2,>200 - 500,NA,Q3 2022
+430,Central Area,Category 2,>500 - 1000,NA,Q3 2022
+431,Central Area,Category 1,100 & Below,NA,Q4 2022
+432,Central Area,Category 1,>100 - 200,NA,Q4 2022
+433,Central Area,Category 1,>1000,NA,Q4 2022
+434,Central Area,Category 1,>200 - 500,NA,Q4 2022
+435,Central Area,Category 1,>500 - 1000,NA,Q4 2022
+436,Central Area,Category 2,100 & Below,NA,Q4 2022
+437,Central Area,Category 2,>100 - 200,NA,Q4 2022
+438,Central Area,Category 2,>1000,NA,Q4 2022
+439,Central Area,Category 2,>200 - 500,NA,Q4 2022
+440,Central Area,Category 2,>500 - 1000,NA,Q4 2022
+441,Fringe Area,Category 2,100 & Below,42.78,Q1 2012
+442,Fringe Area,Category 2,>100 - 200,53.32,Q1 2012
+443,Fringe Area,Category 2,>1000,70.4,Q1 2012
+444,Fringe Area,Category 2,>200 - 500,59.94,Q1 2012
+445,Fringe Area,Category 2,>500 - 1000,59.52,Q1 2012
+446,Fringe Area,Category 2,100 & Below,46.11,Q2 2012
+447,Fringe Area,Category 2,>100 - 200,50.9,Q2 2012
+448,Fringe Area,Category 2,>1000,31.99,Q2 2012
+449,Fringe Area,Category 2,>200 - 500,59.21,Q2 2012
+450,Fringe Area,Category 2,>500 - 1000,79.21,Q2 2012
+451,Fringe Area,Category 2,100 & Below,45.21,Q3 2012
+452,Fringe Area,Category 2,>100 - 200,53.83,Q3 2012
+453,Fringe Area,Category 2,>1000,58.77,Q3 2012
+454,Fringe Area,Category 2,>200 - 500,59.21,Q3 2012
+455,Fringe Area,Category 2,>500 - 1000,68.05,Q3 2012
+456,Fringe Area,Category 2,100 & Below,45.21,Q4 2012
+457,Fringe Area,Category 2,>100 - 200,47.51,Q4 2012
+458,Fringe Area,Category 2,>1000,60.82,Q4 2012
+459,Fringe Area,Category 2,>200 - 500,63.67,Q4 2012
+460,Fringe Area,Category 2,>500 - 1000,68.4,Q4 2012
+461,Fringe Area,Category 2,100 & Below,46.29,Q1 2013
+462,Fringe Area,Category 2,>100 - 200,48.56,Q1 2013
+463,Fringe Area,Category 2,>1000,48.87,Q1 2013
+464,Fringe Area,Category 2,>200 - 500,44.67,Q1 2013
+465,Fringe Area,Category 2,>500 - 1000,56.77,Q1 2013
+466,Fringe Area,Category 2,100 & Below,48.08,Q2 2013
+467,Fringe Area,Category 2,>100 - 200,59.5,Q2 2013
+468,Fringe Area,Category 2,>1000,66.74,Q2 2013
+469,Fringe Area,Category 2,>200 - 500,65.69,Q2 2013
+470,Fringe Area,Category 2,>500 - 1000,49.31,Q2 2013
+471,Fringe Area,Category 2,100 & Below,49.21,Q3 2013
+472,Fringe Area,Category 2,>100 - 200,46.24,Q3 2013
+473,Fringe Area,Category 2,>1000,66.14,Q3 2013
+474,Fringe Area,Category 2,>200 - 500,49.55,Q3 2013
+475,Fringe Area,Category 2,>500 - 1000,59.98,Q3 2013
+476,Fringe Area,Category 2,100 & Below,48.43,Q4 2013
+477,Fringe Area,Category 2,>100 - 200,52.87,Q4 2013
+478,Fringe Area,Category 2,>1000,66.68,Q4 2013
+479,Fringe Area,Category 2,>200 - 500,61.98,Q4 2013
+480,Fringe Area,Category 2,>500 - 1000,61.18,Q4 2013
+481,Fringe Area,Category 2,100 & Below,47.37,Q1 2014
+482,Fringe Area,Category 2,>100 - 200,57.38,Q1 2014
+483,Fringe Area,Category 2,>1000,70.19,Q1 2014
+484,Fringe Area,Category 2,>200 - 500,60.1,Q1 2014
+485,Fringe Area,Category 2,>500 - 1000,63.45,Q1 2014
+486,Fringe Area,Category 2,100 & Below,47.35,Q2 2014
+487,Fringe Area,Category 2,>100 - 200,64.58,Q2 2014
+488,Fringe Area,Category 2,>1000,29.59,Q2 2014
+489,Fringe Area,Category 2,>200 - 500,58.53,Q2 2014
+490,Fringe Area,Category 2,>500 - 1000,54.68,Q2 2014
+491,Fringe Area,Category 2,100 & Below,48.07,Q3 2014
+492,Fringe Area,Category 2,>100 - 200,51.96,Q3 2014
+493,Fringe Area,Category 2,>1000,65.01,Q3 2014
+494,Fringe Area,Category 2,>200 - 500,61.89,Q3 2014
+495,Fringe Area,Category 2,>500 - 1000,66.38,Q3 2014
+496,Fringe Area,Category 2,100 & Below,47.37,Q4 2014
+497,Fringe Area,Category 2,>100 - 200,49.17,Q4 2014
+498,Fringe Area,Category 2,>1000,65.69,Q4 2014
+499,Fringe Area,Category 2,>200 - 500,58.38,Q4 2014
+500,Fringe Area,Category 2,>500 - 1000,48.44,Q4 2014
+501,Fringe Area,Category 2,100 & Below,48.72,Q1 2015
+502,Fringe Area,Category 2,>100 - 200,54.17,Q1 2015
+503,Fringe Area,Category 2,>1000,41.98,Q1 2015
+504,Fringe Area,Category 2,>200 - 500,70.9,Q1 2015
+505,Fringe Area,Category 2,>500 - 1000,71.58,Q1 2015
+506,Fringe Area,Category 2,100 & Below,48.44,Q2 2015
+507,Fringe Area,Category 2,>100 - 200,52.08,Q2 2015
+508,Fringe Area,Category 2,>1000,53.89,Q2 2015
+509,Fringe Area,Category 2,>200 - 500,60.05,Q2 2015
+510,Fringe Area,Category 2,>500 - 1000,53.24,Q2 2015
+511,Fringe Area,Category 2,100 & Below,44,Q3 2015
+512,Fringe Area,Category 2,>100 - 200,46.28,Q3 2015
+513,Fringe Area,Category 2,>1000,44.27,Q3 2015
+514,Fringe Area,Category 2,>200 - 500,51.42,Q3 2015
+515,Fringe Area,Category 2,>500 - 1000,24.28,Q3 2015
+516,Fringe Area,Category 2,100 & Below,43,Q4 2015
+517,Fringe Area,Category 2,>100 - 200,48.46,Q4 2015
+518,Fringe Area,Category 2,>1000,22.35,Q4 2015
+519,Fringe Area,Category 2,>200 - 500,46.23,Q4 2015
+520,Fringe Area,Category 2,>500 - 1000,74.25,Q4 2015
+521,Fringe Area,Category 2,100 & Below,43.18,Q1 2016
+522,Fringe Area,Category 2,>100 - 200,44.76,Q1 2016
+523,Fringe Area,Category 2,>1000,NA,Q1 2016
+524,Fringe Area,Category 2,>200 - 500,62.42,Q1 2016
+525,Fringe Area,Category 2,>500 - 1000,50.3,Q1 2016
+526,Fringe Area,Category 2,100 & Below,43.05,Q2 2016
+527,Fringe Area,Category 2,>100 - 200,48.41,Q2 2016
+528,Fringe Area,Category 2,>1000,67.81,Q2 2016
+529,Fringe Area,Category 2,>200 - 500,57.32,Q2 2016
+530,Fringe Area,Category 2,>500 - 1000,39.83,Q2 2016
+531,Fringe Area,Category 2,100 & Below,44.78,Q3 2016
+532,Fringe Area,Category 2,>100 - 200,44.55,Q3 2016
+533,Fringe Area,Category 2,>1000,50.19,Q3 2016
+534,Fringe Area,Category 2,>200 - 500,48.36,Q3 2016
+535,Fringe Area,Category 2,>500 - 1000,40.36,Q3 2016
+536,Fringe Area,Category 2,100 & Below,43.25,Q4 2016
+537,Fringe Area,Category 2,>100 - 200,47.93,Q4 2016
+538,Fringe Area,Category 2,>1000,49.49,Q4 2016
+539,Fringe Area,Category 2,>200 - 500,55.98,Q4 2016
+540,Fringe Area,Category 2,>500 - 1000,52.34,Q4 2016
+541,Fringe Area,Category 2,100 & Below,44.44,Q1 2017
+542,Fringe Area,Category 2,>100 - 200,47.62,Q1 2017
+543,Fringe Area,Category 2,>1000,62.73,Q1 2017
+544,Fringe Area,Category 2,>200 - 500,57.05,Q1 2017
+545,Fringe Area,Category 2,>500 - 1000,52.74,Q1 2017
+546,Fringe Area,Category 2,100 & Below,45.1,Q2 2017
+547,Fringe Area,Category 2,>100 - 200,50,Q2 2017
+548,Fringe Area,Category 2,>1000,66.74,Q2 2017
+549,Fringe Area,Category 2,>200 - 500,60.28,Q2 2017
+550,Fringe Area,Category 2,>500 - 1000,55.43,Q2 2017
+551,Fringe Area,Category 2,100 & Below,46,Q3 2017
+552,Fringe Area,Category 2,>100 - 200,48.74,Q3 2017
+553,Fringe Area,Category 2,>1000,65.67,Q3 2017
+554,Fringe Area,Category 2,>200 - 500,58.13,Q3 2017
+555,Fringe Area,Category 2,>500 - 1000,59.49,Q3 2017
+556,Fringe Area,Category 2,100 & Below,46.29,Q4 2017
+557,Fringe Area,Category 2,>100 - 200,49.19,Q4 2017
+558,Fringe Area,Category 2,>1000,71.16,Q4 2017
+559,Fringe Area,Category 2,>200 - 500,65.67,Q4 2017
+560,Fringe Area,Category 2,>500 - 1000,53.67,Q4 2017
+561,Fringe Area,Category 2,100 & Below,47.5,Q1 2018
+562,Fringe Area,Category 2,>100 - 200,50.5,Q1 2018
+563,Fringe Area,Category 2,>1000,67.8,Q1 2018
+564,Fringe Area,Category 2,>200 - 500,58.37,Q1 2018
+565,Fringe Area,Category 2,>500 - 1000,58.66,Q1 2018
+566,Fringe Area,Category 2,100 & Below,48.11,Q2 2018
+567,Fringe Area,Category 2,>100 - 200,50.06,Q2 2018
+568,Fringe Area,Category 2,>1000,57.59,Q2 2018
+569,Fringe Area,Category 2,>200 - 500,73.18,Q2 2018
+570,Fringe Area,Category 2,>500 - 1000,46.38,Q2 2018
+571,Fringe Area,Category 2,100 & Below,42.96,Q3 2018
+572,Fringe Area,Category 2,>100 - 200,48.44,Q3 2018
+573,Fringe Area,Category 2,>1000,73.2,Q3 2018
+574,Fringe Area,Category 2,>200 - 500,59.98,Q3 2018
+575,Fringe Area,Category 2,>500 - 1000,58.25,Q3 2018
+576,Fringe Area,Category 2,100 & Below,46.51,Q4 2018
+577,Fringe Area,Category 2,>100 - 200,49.07,Q4 2018
+578,Fringe Area,Category 2,>1000,73.2,Q4 2018
+579,Fringe Area,Category 2,>200 - 500,68.89,Q4 2018
+580,Fringe Area,Category 2,>500 - 1000,56.99,Q4 2018
+581,Fringe Area,Category 2,100 & Below,47.29,Q1 2019
+582,Fringe Area,Category 2,>100 - 200,51.16,Q1 2019
+583,Fringe Area,Category 2,>1000,79.36,Q1 2019
+584,Fringe Area,Category 2,>200 - 500,56,Q1 2019
+585,Fringe Area,Category 2,>500 - 1000,64.58,Q1 2019
+586,Fringe Area,Category 2,100 & Below,46.12,Q2 2019
+587,Fringe Area,Category 2,>100 - 200,49.33,Q2 2019
+588,Fringe Area,Category 2,>1000,89.34,Q2 2019
+589,Fringe Area,Category 2,>200 - 500,61.35,Q2 2019
+590,Fringe Area,Category 2,>500 - 1000,78.55,Q2 2019
+591,Fringe Area,Category 2,100 & Below,43.75,Q3 2019
+592,Fringe Area,Category 2,>100 - 200,47.6,Q3 2019
+593,Fringe Area,Category 2,>1000,62.44,Q3 2019
+594,Fringe Area,Category 2,>200 - 500,68.89,Q3 2019
+595,Fringe Area,Category 2,>500 - 1000,31.52,Q3 2019
+596,Fringe Area,Category 2,100 & Below,48.53,Q4 2019
+597,Fringe Area,Category 2,>100 - 200,46.77,Q4 2019
+598,Fringe Area,Category 2,>1000,27.52,Q4 2019
+599,Fringe Area,Category 2,>200 - 500,77.96,Q4 2019
+600,Fringe Area,Category 2,>500 - 1000,71.05,Q4 2019
+601,Fringe Area,Category 2,100 & Below,48.51,Q1 2020
+602,Fringe Area,Category 2,>100 - 200,45.51,Q1 2020
+603,Fringe Area,Category 2,>1000,27.82,Q1 2020
+604,Fringe Area,Category 2,>200 - 500,59.21,Q1 2020
+605,Fringe Area,Category 2,>500 - 1000,50.75,Q1 2020
+606,Fringe Area,Category 2,100 & Below,45.34,Q2 2020
+607,Fringe Area,Category 2,>100 - 200,45.36,Q2 2020
+608,Fringe Area,Category 2,>1000,57.44,Q2 2020
+609,Fringe Area,Category 2,>200 - 500,59.76,Q2 2020
+610,Fringe Area,Category 2,>500 - 1000,54.31,Q2 2020
+611,Fringe Area,Category 2,100 & Below,42.06,Q3 2020
+612,Fringe Area,Category 2,>100 - 200,34.55,Q3 2020
+613,Fringe Area,Category 2,>1000,68.3,Q3 2020
+614,Fringe Area,Category 2,>200 - 500,62.43,Q3 2020
+615,Fringe Area,Category 2,>500 - 1000,40.37,Q3 2020
+616,Fringe Area,Category 2,100 & Below,45,Q4 2020
+617,Fringe Area,Category 2,>100 - 200,40.63,Q4 2020
+618,Fringe Area,Category 2,>1000,68.89,Q4 2020
+619,Fringe Area,Category 2,>200 - 500,46.62,Q4 2020
+620,Fringe Area,Category 2,>500 - 1000,42.44,Q4 2020
+621,Fringe Area,Category 2,100 & Below,47.83,Q1 2021
+622,Fringe Area,Category 2,>100 - 200,49.06,Q1 2021
+623,Fringe Area,Category 2,>1000,75.35,Q1 2021
+624,Fringe Area,Category 2,>200 - 500,64.58,Q1 2021
+625,Fringe Area,Category 2,>500 - 1000,60.63,Q1 2021
+626,Fringe Area,Category 2,100 & Below,48.21,Q2 2021
+627,Fringe Area,Category 2,>100 - 200,48.88,Q2 2021
+628,Fringe Area,Category 2,>1000,72.76,Q2 2021
+629,Fringe Area,Category 2,>200 - 500,61.18,Q2 2021
+630,Fringe Area,Category 2,>500 - 1000,69.84,Q2 2021
+631,Fringe Area,Category 2,100 & Below,45.65,Q3 2021
+632,Fringe Area,Category 2,>100 - 200,52.36,Q3 2021
+633,Fringe Area,Category 2,>1000,59.89,Q3 2021
+634,Fringe Area,Category 2,>200 - 500,52.74,Q3 2021
+635,Fringe Area,Category 2,>500 - 1000,64.59,Q3 2021
+636,Fringe Area,Category 2,100 & Below,46.15,Q4 2021
+637,Fringe Area,Category 2,>100 - 200,44.67,Q4 2021
+638,Fringe Area,Category 2,>1000,77.64,Q4 2021
+639,Fringe Area,Category 2,>200 - 500,60.54,Q4 2021
+640,Fringe Area,Category 2,>500 - 1000,51.15,Q4 2021
+641,Fringe Area,Category 2,100 & Below,50,Q1 2022
+642,Fringe Area,Category 2,>100 - 200,45.22,Q1 2022
+643,Fringe Area,Category 2,>1000,68.37,Q1 2022
+644,Fringe Area,Category 2,>200 - 500,68.89,Q1 2022
+645,Fringe Area,Category 2,>500 - 1000,74.23,Q1 2022
+646,Fringe Area,Category 2,100 & Below,NA,Q2 2022
+647,Fringe Area,Category 2,>100 - 200,NA,Q2 2022
+648,Fringe Area,Category 2,>1000,NA,Q2 2022
+649,Fringe Area,Category 2,>200 - 500,NA,Q2 2022
+650,Fringe Area,Category 2,>500 - 1000,NA,Q2 2022
+651,Fringe Area,Category 2,100 & Below,NA,Q3 2022
+652,Fringe Area,Category 2,>100 - 200,NA,Q3 2022
+653,Fringe Area,Category 2,>1000,NA,Q3 2022
+654,Fringe Area,Category 2,>200 - 500,NA,Q3 2022
+655,Fringe Area,Category 2,>500 - 1000,NA,Q3 2022
+656,Fringe Area,Category 2,100 & Below,NA,Q4 2022
+657,Fringe Area,Category 2,>100 - 200,NA,Q4 2022
+658,Fringe Area,Category 2,>1000,NA,Q4 2022
+659,Fringe Area,Category 2,>200 - 500,NA,Q4 2022
+660,Fringe Area,Category 2,>500 - 1000,NA,Q4 2022
+661,Outside Central Region,Category 2,100 & Below,27.12,Q1 2012
+662,Outside Central Region,Category 2,>100 - 200,NA,Q1 2012
+663,Outside Central Region,Category 2,>1000,NA,Q1 2012
+664,Outside Central Region,Category 2,>200 - 500,NA,Q1 2012
+665,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2012
+666,Outside Central Region,Category 2,100 & Below,44.97,Q2 2012
+667,Outside Central Region,Category 2,>100 - 200,NA,Q2 2012
+668,Outside Central Region,Category 2,>1000,NA,Q2 2012
+669,Outside Central Region,Category 2,>200 - 500,NA,Q2 2012
+670,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2012
+671,Outside Central Region,Category 2,100 & Below,48.04,Q3 2012
+672,Outside Central Region,Category 2,>100 - 200,74.02,Q3 2012
+673,Outside Central Region,Category 2,>1000,NA,Q3 2012
+674,Outside Central Region,Category 2,>200 - 500,NA,Q3 2012
+675,Outside Central Region,Category 2,>500 - 1000,NA,Q3 2012
+676,Outside Central Region,Category 2,100 & Below,34.25,Q4 2012
+677,Outside Central Region,Category 2,>100 - 200,39.16,Q4 2012
+678,Outside Central Region,Category 2,>1000,NA,Q4 2012
+679,Outside Central Region,Category 2,>200 - 500,48.41,Q4 2012
+680,Outside Central Region,Category 2,>500 - 1000,NA,Q4 2012
+681,Outside Central Region,Category 2,100 & Below,32.24,Q1 2013
+682,Outside Central Region,Category 2,>100 - 200,51.13,Q1 2013
+683,Outside Central Region,Category 2,>1000,NA,Q1 2013
+684,Outside Central Region,Category 2,>200 - 500,69.27,Q1 2013
+685,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2013
+686,Outside Central Region,Category 2,100 & Below,41.54,Q2 2013
+687,Outside Central Region,Category 2,>100 - 200,NA,Q2 2013
+688,Outside Central Region,Category 2,>1000,NA,Q2 2013
+689,Outside Central Region,Category 2,>200 - 500,NA,Q2 2013
+690,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2013
+691,Outside Central Region,Category 2,100 & Below,35.7,Q3 2013
+692,Outside Central Region,Category 2,>100 - 200,NA,Q3 2013
+693,Outside Central Region,Category 2,>1000,NA,Q3 2013
+694,Outside Central Region,Category 2,>200 - 500,NA,Q3 2013
+695,Outside Central Region,Category 2,>500 - 1000,NA,Q3 2013
+696,Outside Central Region,Category 2,100 & Below,38.16,Q4 2013
+697,Outside Central Region,Category 2,>100 - 200,NA,Q4 2013
+698,Outside Central Region,Category 2,>1000,NA,Q4 2013
+699,Outside Central Region,Category 2,>200 - 500,NA,Q4 2013
+700,Outside Central Region,Category 2,>500 - 1000,NA,Q4 2013
+701,Outside Central Region,Category 2,100 & Below,35.35,Q1 2014
+702,Outside Central Region,Category 2,>100 - 200,NA,Q1 2014
+703,Outside Central Region,Category 2,>1000,NA,Q1 2014
+704,Outside Central Region,Category 2,>200 - 500,70.83,Q1 2014
+705,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2014
+706,Outside Central Region,Category 2,100 & Below,37.8,Q2 2014
+707,Outside Central Region,Category 2,>100 - 200,43.58,Q2 2014
+708,Outside Central Region,Category 2,>1000,NA,Q2 2014
+709,Outside Central Region,Category 2,>200 - 500,50.15,Q2 2014
+710,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2014
+711,Outside Central Region,Category 2,100 & Below,42.5,Q3 2014
+712,Outside Central Region,Category 2,>100 - 200,51.67,Q3 2014
+713,Outside Central Region,Category 2,>1000,57.25,Q3 2014
+714,Outside Central Region,Category 2,>200 - 500,26.37,Q3 2014
+715,Outside Central Region,Category 2,>500 - 1000,NA,Q3 2014
+716,Outside Central Region,Category 2,100 & Below,33.33,Q4 2014
+717,Outside Central Region,Category 2,>100 - 200,NA,Q4 2014
+718,Outside Central Region,Category 2,>1000,NA,Q4 2014
+719,Outside Central Region,Category 2,>200 - 500,37.05,Q4 2014
+720,Outside Central Region,Category 2,>500 - 1000,NA,Q4 2014
+721,Outside Central Region,Category 2,100 & Below,45.83,Q1 2015
+722,Outside Central Region,Category 2,>100 - 200,62.43,Q1 2015
+723,Outside Central Region,Category 2,>1000,NA,Q1 2015
+724,Outside Central Region,Category 2,>200 - 500,52.02,Q1 2015
+725,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2015
+726,Outside Central Region,Category 2,100 & Below,31.18,Q2 2015
+727,Outside Central Region,Category 2,>100 - 200,52.48,Q2 2015
+728,Outside Central Region,Category 2,>1000,NA,Q2 2015
+729,Outside Central Region,Category 2,>200 - 500,NA,Q2 2015
+730,Outside Central Region,Category 2,>500 - 1000,56.96,Q2 2015
+731,Outside Central Region,Category 2,100 & Below,NA,Q3 2015
+732,Outside Central Region,Category 2,>100 - 200,NA,Q3 2015
+733,Outside Central Region,Category 2,>1000,NA,Q3 2015
+734,Outside Central Region,Category 2,>200 - 500,NA,Q3 2015
+735,Outside Central Region,Category 2,>500 - 1000,NA,Q3 2015
+736,Outside Central Region,Category 2,100 & Below,NA,Q4 2015
+737,Outside Central Region,Category 2,>100 - 200,55.93,Q4 2015
+738,Outside Central Region,Category 2,>1000,NA,Q4 2015
+739,Outside Central Region,Category 2,>200 - 500,NA,Q4 2015
+740,Outside Central Region,Category 2,>500 - 1000,NA,Q4 2015
+741,Outside Central Region,Category 2,100 & Below,NA,Q1 2016
+742,Outside Central Region,Category 2,>100 - 200,NA,Q1 2016
+743,Outside Central Region,Category 2,>1000,NA,Q1 2016
+744,Outside Central Region,Category 2,>200 - 500,NA,Q1 2016
+745,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2016
+746,Outside Central Region,Category 2,100 & Below,NA,Q2 2016
+747,Outside Central Region,Category 2,>100 - 200,NA,Q2 2016
+748,Outside Central Region,Category 2,>1000,NA,Q2 2016
+749,Outside Central Region,Category 2,>200 - 500,NA,Q2 2016
+750,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2016
+751,Outside Central Region,Category 2,100 & Below,NA,Q3 2016
+752,Outside Central Region,Category 2,>100 - 200,NA,Q3 2016
+753,Outside Central Region,Category 2,>1000,NA,Q3 2016
+754,Outside Central Region,Category 2,>200 - 500,NA,Q3 2016
+755,Outside Central Region,Category 2,>500 - 1000,NA,Q3 2016
+756,Outside Central Region,Category 2,100 & Below,NA,Q4 2016
+757,Outside Central Region,Category 2,>100 - 200,NA,Q4 2016
+758,Outside Central Region,Category 2,>1000,NA,Q4 2016
+759,Outside Central Region,Category 2,>200 - 500,NA,Q4 2016
+760,Outside Central Region,Category 2,>500 - 1000,NA,Q4 2016
+761,Outside Central Region,Category 2,100 & Below,66.25,Q1 2017
+762,Outside Central Region,Category 2,>100 - 200,NA,Q1 2017
+763,Outside Central Region,Category 2,>1000,NA,Q1 2017
+764,Outside Central Region,Category 2,>200 - 500,NA,Q1 2017
+765,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2017
+766,Outside Central Region,Category 2,100 & Below,45.83,Q2 2017
+767,Outside Central Region,Category 2,>100 - 200,47.9,Q2 2017
+768,Outside Central Region,Category 2,>1000,NA,Q2 2017
+769,Outside Central Region,Category 2,>200 - 500,59.74,Q2 2017
+770,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2017
+771,Outside Central Region,Category 2,100 & Below,48.78,Q3 2017
+772,Outside Central Region,Category 2,>100 - 200,62.43,Q3 2017
+773,Outside Central Region,Category 2,>1000,NA,Q3 2017
+774,Outside Central Region,Category 2,>200 - 500,NA,Q3 2017
+775,Outside Central Region,Category 2,>500 - 1000,NA,Q3 2017
+776,Outside Central Region,Category 2,100 & Below,46.29,Q4 2017
+777,Outside Central Region,Category 2,>100 - 200,50.59,Q4 2017
+778,Outside Central Region,Category 2,>1000,NA,Q4 2017
+779,Outside Central Region,Category 2,>200 - 500,66.82,Q4 2017
+780,Outside Central Region,Category 2,>500 - 1000,56.98,Q4 2017
+781,Outside Central Region,Category 2,100 & Below,37.5,Q1 2018
+782,Outside Central Region,Category 2,>100 - 200,50.86,Q1 2018
+783,Outside Central Region,Category 2,>1000,NA,Q1 2018
+784,Outside Central Region,Category 2,>200 - 500,59.2,Q1 2018
+785,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2018
+786,Outside Central Region,Category 2,100 & Below,41.67,Q2 2018
+787,Outside Central Region,Category 2,>100 - 200,53.83,Q2 2018
+788,Outside Central Region,Category 2,>1000,NA,Q2 2018
+789,Outside Central Region,Category 2,>200 - 500,58.68,Q2 2018
+790,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2018
+791,Outside Central Region,Category 2,100 & Below,36.02,Q3 2018
+792,Outside Central Region,Category 2,>100 - 200,41.28,Q3 2018
+793,Outside Central Region,Category 2,>1000,NA,Q3 2018
+794,Outside Central Region,Category 2,>200 - 500,NA,Q3 2018
+795,Outside Central Region,Category 2,>500 - 1000,53.28,Q3 2018
+796,Outside Central Region,Category 2,100 & Below,37.5,Q4 2018
+797,Outside Central Region,Category 2,>100 - 200,48.43,Q4 2018
+798,Outside Central Region,Category 2,>1000,NA,Q4 2018
+799,Outside Central Region,Category 2,>200 - 500,62.42,Q4 2018
+800,Outside Central Region,Category 2,>500 - 1000,40.46,Q4 2018
+801,Outside Central Region,Category 2,100 & Below,37.5,Q1 2019
+802,Outside Central Region,Category 2,>100 - 200,54.36,Q1 2019
+803,Outside Central Region,Category 2,>1000,NA,Q1 2019
+804,Outside Central Region,Category 2,>200 - 500,56.24,Q1 2019
+805,Outside Central Region,Category 2,>500 - 1000,NA,Q1 2019
+806,Outside Central Region,Category 2,100 & Below,41.67,Q2 2019
+807,Outside Central Region,Category 2,>100 - 200,53.28,Q2 2019
+808,Outside Central Region,Category 2,>1000,NA,Q2 2019
+809,Outside Central Region,Category 2,>200 - 500,NA,Q2 2019
+810,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2019
+811,Outside Central Region,Category 2,100 & Below,42.71,Q3 2019
+812,Outside Central Region,Category 2,>100 - 200,55.97,Q3 2019
+813,Outside Central Region,Category 2,>1000,NA,Q3 2019
+814,Outside Central Region,Category 2,>200 - 500,64.96,Q3 2019
+815,Outside Central Region,Category 2,>500 - 1000,59.56,Q3 2019
+816,Outside Central Region,Category 2,100 & Below,41.67,Q4 2019
+817,Outside Central Region,Category 2,>100 - 200,45.71,Q4 2019
+818,Outside Central Region,Category 2,>1000,66.3,Q4 2019
+819,Outside Central Region,Category 2,>200 - 500,56.89,Q4 2019
+820,Outside Central Region,Category 2,>500 - 1000,NA,Q4 2019
+821,Outside Central Region,Category 2,100 & Below,42.25,Q1 2020
+822,Outside Central Region,Category 2,>100 - 200,51.67,Q1 2020
+823,Outside Central Region,Category 2,>1000,57.47,Q1 2020
+824,Outside Central Region,Category 2,>200 - 500,59.2,Q1 2020
+825,Outside Central Region,Category 2,>500 - 1000,60.82,Q1 2020
+826,Outside Central Region,Category 2,100 & Below,52.47,Q2 2020
+827,Outside Central Region,Category 2,>100 - 200,45.15,Q2 2020
+828,Outside Central Region,Category 2,>1000,63.29,Q2 2020
+829,Outside Central Region,Category 2,>200 - 500,25.83,Q2 2020
+830,Outside Central Region,Category 2,>500 - 1000,53.48,Q2 2020
+831,Outside Central Region,Category 2,100 & Below,38.73,Q3 2020
+832,Outside Central Region,Category 2,>100 - 200,56.5,Q3 2020
+833,Outside Central Region,Category 2,>1000,88.49,Q3 2020
+834,Outside Central Region,Category 2,>200 - 500,53.82,Q3 2020
+835,Outside Central Region,Category 2,>500 - 1000,75.24,Q3 2020
+836,Outside Central Region,Category 2,100 & Below,39.58,Q4 2020
+837,Outside Central Region,Category 2,>100 - 200,40.98,Q4 2020
+838,Outside Central Region,Category 2,>1000,110.75,Q4 2020
+839,Outside Central Region,Category 2,>200 - 500,50.6,Q4 2020
+840,Outside Central Region,Category 2,>500 - 1000,59.2,Q4 2020
+841,Outside Central Region,Category 2,100 & Below,39.58,Q1 2021
+842,Outside Central Region,Category 2,>100 - 200,48.44,Q1 2021
+843,Outside Central Region,Category 2,>1000,58.65,Q1 2021
+844,Outside Central Region,Category 2,>200 - 500,57.59,Q1 2021
+845,Outside Central Region,Category 2,>500 - 1000,54.09,Q1 2021
+846,Outside Central Region,Category 2,100 & Below,40.24,Q2 2021
+847,Outside Central Region,Category 2,>100 - 200,51.68,Q2 2021
+848,Outside Central Region,Category 2,>1000,15.98,Q2 2021
+849,Outside Central Region,Category 2,>200 - 500,55.96,Q2 2021
+850,Outside Central Region,Category 2,>500 - 1000,64.54,Q2 2021
+851,Outside Central Region,Category 2,100 & Below,38.77,Q3 2021
+852,Outside Central Region,Category 2,>100 - 200,43.18,Q3 2021
+853,Outside Central Region,Category 2,>1000,NA,Q3 2021
+854,Outside Central Region,Category 2,>200 - 500,43.06,Q3 2021
+855,Outside Central Region,Category 2,>500 - 1000,27.67,Q3 2021
+856,Outside Central Region,Category 2,100 & Below,41.6,Q4 2021
+857,Outside Central Region,Category 2,>100 - 200,48.4,Q4 2021
+858,Outside Central Region,Category 2,>1000,47.77,Q4 2021
+859,Outside Central Region,Category 2,>200 - 500,57.05,Q4 2021
+860,Outside Central Region,Category 2,>500 - 1000,53.82,Q4 2021
+861,Outside Central Region,Category 2,100 & Below,45.83,Q1 2022
+862,Outside Central Region,Category 2,>100 - 200,50.64,Q1 2022
+863,Outside Central Region,Category 2,>1000,13.3,Q1 2022
+864,Outside Central Region,Category 2,>200 - 500,55.42,Q1 2022
+865,Outside Central Region,Category 2,>500 - 1000,61.35,Q1 2022
+866,Outside Central Region,Category 2,100 & Below,NA,Q2 2022
+867,Outside Central Region,Category 2,>100 - 200,NA,Q2 2022
+868,Outside Central Region,Category 2,>1000,NA,Q2 2022
+869,Outside Central Region,Category 2,>200 - 500,NA,Q2 2022
+870,Outside Central Region,Category 2,>500 - 1000,NA,Q2 2022
+871,Outside Central Region,Category 2,100 & Below,NA,Q3 2022
+872,Outside Central Region,Category 2,>100 - 200,NA,Q3 2022
+873,Outside Central Region,Category 2,>1000,NA,Q3 2022
+874,Outside Central Region,Category 2,>200 - 500,NA,Q3 2022
+875,Outside Central Region,Category 2,>500 - 1000,NA,Q3 2022
+876,Outside Central Region,Category 2,100 & Below,NA,Q4 2022
+877,Outside Central Region,Category 2,>100 - 200,NA,Q4 2022
+878,Outside Central Region,Category 2,>1000,NA,Q4 2022
+879,Outside Central Region,Category 2,>200 - 500,NA,Q4 2022
+880,Outside Central Region,Category 2,>500 - 1000,NA,Q4 2022
